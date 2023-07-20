@@ -1,0 +1,15 @@
+{
+  "contact": "@StiffRichard On Anbu Chat",
+  "templates": [
+    {
+      "name": "4th Hokage",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/959887217977864226/1131645113181949962/ylpfkqtowlm71.png"
+      ],
+      "x": -224,
+      "y": -16
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
